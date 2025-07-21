@@ -42,11 +42,10 @@ Exported cleaned dataset to CSV for use in Power BI
 
 📄 See notebook: notebooks/01_data_cleaning_googleplay.ipynb
 
-📁 Project Structure
-plaintext
-Copy
-Edit
-📁 Google-Playstore-Analysis/
+## 📁 Project Structure
+
+```plaintext
+Google-Playstore-Analysis/
 ├── data/
 │   └── cleaned_googleplay.csv
 ├── notebooks/
@@ -60,16 +59,17 @@ Edit
 │       ├── pricing_analysis.png
 ├── README.md
 └── .gitignore
-🔍 Insights Gained
-Free apps dominate, but paid apps still exist in niche categories.
 
-Highly rated apps tend to receive more reviews.
+## 🔍 Insights Gained
+-Free apps dominate, but paid apps still exist in niche categories.
 
-Certain categories (e.g., "Family", "Tools") are overrepresented.
+-Highly rated apps tend to receive more reviews.
 
-Price does not correlate directly with installs or rating.
+-Certain categories (e.g., "Family", "Tools") are overrepresented.
 
-🛠️ Tools Used
+-No clear correlation between app price and install count.
+
+## 🛠️ Tools Used
 Python (Pandas, NumPy, Matplotlib) – for data cleaning
 
 Power BI – for dashboard creation
