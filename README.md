@@ -60,6 +60,7 @@ Google-Playstore-Analysis/
 ├── README.md
 └── .gitignore
 
+```
 ## 🔍 Insights Gained
 -Free apps dominate, but paid apps still exist in niche categories.
 
